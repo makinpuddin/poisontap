@@ -1,4 +1,4 @@
-# [PoisonTap](https://samy.pl/poisontap/) - siphons cookies, exposes internal router & installs web backdoor on locked computers
+# PuddinTap is a minor fork of the awesome [PoisonTap] by Samy (is my hero) Kamkar (https://samy.pl/poisontap/) - siphons cookies, exposes internal router & installs web backdoor on locked computers
 
 Created by <a href="https://twitter.com/samykamkar" target=_blank>@SamyKamkar</a> || <a href="https://samy.pl" target=_blank>https://samy.pl</a>
 
